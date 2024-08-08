@@ -4,7 +4,7 @@
 ## Description
 Chinese wake-up words audio data captured by mobile phone, collected from 200 people, 180 sentences per person, a total length of 24.5 hours; recording staff come from seven dialect regions with balanced gender distribution; collection environment was diversified; recorded text includes wake-up words and colloquial sentences.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/177?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/177?source=Github
 
 
 ## Format:
